@@ -1,5 +1,5 @@
 > **Warning**
-> 🚧 This package is under active development. We're planning for a first release in September. Leave a star ⭐, [share your thoughts](https://github.com/OlivierBinette/VisTree/issues/new), and see you soon! 👋
+> 🚧 This package is under early active development. We're planning for a first release in September. Leave a star ⭐, [share your thoughts](https://github.com/OlivierBinette/VisTree/issues/new), and see you soon! 👋
 
 # 🌴 VisTree
 
