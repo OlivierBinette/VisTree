@@ -19,8 +19,6 @@ pip install git+https://github.com/OlivierBinette/VisTree
 
 🚧 Under construction! 🚧
 
-<img width="659" alt="img-1" src="https://github.com/OlivierBinette/VisTree/assets/784901/b165f679-f352-4537-aade-91fa770c7f4d">
-<img width="642" alt="img-2" src="https://github.com/OlivierBinette/VisTree/assets/784901/e6fb0ec0-a8a4-4b83-8a56-5e0faf9adde0">
-<img width="672" alt="img-3" src="https://github.com/OlivierBinette/VisTree/assets/784901/8c7ecb58-1eeb-4cb8-94e9-39ca70c17bed">
-
+<img src="img-1.png" width="300" /> <img src="img-2.png" width="300" />
+<img src="img-3.png" width="300" />
 
