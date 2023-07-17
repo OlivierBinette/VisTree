@@ -1,0 +1,23 @@
+{
+  "name": "Python",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "latest",
+      "installJupyterlab": "true",
+      "configureJupyterlabAllowOrigin": "true"
+    }
+  },
+  "postCreateCommand": "pip3 install -e .[dev,test]",
+  "customizations": {
+  "codespaces": {
+    "openFiles": []
+  },
+  "vscode": {
+    "extensions": [
+      "ms-toolsai.jupyter",
+      "ms-python.python"
+    ]
+  }
+  }
+}
